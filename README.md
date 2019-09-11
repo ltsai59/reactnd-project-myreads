@@ -1,12 +1,12 @@
 # MyReads
 
-MyReads is a simple cataloging app that allows the user to place books in one of three shelves or categories.
+MyReads is an app that allows a user to place books in one of three shelves or categories.
 
 - Currently Reading
 - Want to Read
-- Read
+- Already Read
 
-It also allow the user to search for books based on title and author.
+It also allows the user to search for books based on title and author.
 
 This application is first of the three projects required for [Udacity's React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
 
