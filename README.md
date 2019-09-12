@@ -1,12 +1,12 @@
 # MyReads
 
-MyReads is an app that allows a user to place books in one of three shelves or categories.
+MyReads is an app that allows a user to place books in one of three shelves (categories).  The three shelves are
 
 - Currently Reading
 - Want to Read
-- Already Read
+- Have Read
 
-It also allows the user to search for books based on title and author.
+This application also allows the user to search for books based on title or author.
 
 This application is first of the three projects required for [Udacity's React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
 
@@ -18,15 +18,13 @@ Clone the repository, change directories, and use NPM to install the dependencie
 $ git clone https://github.com/ltsai59/reactnd-project-myreads.git
 $ cd reactnd-project-myreads
 $ npm install
-$ npm install --save react-router-dom
-$ npm install --save react-html-parser
 ```
 
 ## Usage
 
 Once all of the dependencies have been installed, launch the app with
 
-- `npm start`
+- npm start
 
 The project can be viewed in the browser at
 
