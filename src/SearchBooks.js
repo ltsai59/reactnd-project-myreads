@@ -84,7 +84,6 @@ class SearchBooks extends Component {
                         {error?
                             <div>Network/Server error. Please try again later.</div>
                             :
-
                             searchBooksResult.map(book => (
                                 <Book
                                     key={book.id}
