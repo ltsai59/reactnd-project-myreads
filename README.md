@@ -8,7 +8,7 @@ MyReads is an app that allows a user to place books in one of three shelves (cat
 
 This application also allows the user to search for books based on title or author.
 
-This application is first of the three projects required for [Udacity's React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
+This application is the first of the three projects required for [Udacity's React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
 
 ## Installation
 
